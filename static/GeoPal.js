@@ -85,6 +85,13 @@ var GeoPal = function(){
             click_lng = event.latLng.lng();
         });
 
+        //Add listener
+        google.maps.event.addListener(map,'mousemove',function(event) {
+            click_lat = event.latLng.lat();
+            click_lng = event.latLng.lng();
+        }); //end addListener
+
+
         // Init Lasso Selection process
         document.getElementById("btn_selection").addEventListener("click", function(e){
 
