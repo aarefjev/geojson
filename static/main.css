@@ -1,0 +1,72 @@
+
+#overlay {
+    cursor: crosshair !important;
+    width:1px;
+    height:1px;
+    z-index: 1000;
+    display: block;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #efefef;
+    opacity: 0.5;
+    border: 1px solid red;
+}
+
+.hideit {
+    display: none;
+}
+
+#map {
+    display: block;
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+}
+
+body {
+    margin:0;
+    padding:0;
+}
+
+#control {
+/*    border: 1px solid #499fe8;*/
+    display: block;
+    width: 320px;
+    height: 200px;
+    position: fixed;
+    z-index:1100;
+    top: 20px;
+    right: 100px;
+/*    background-color: rgba(66, 66, 66, 0.2);*/
+
+}
+
+
+#selector {
+    cursor: se-resize !important;
+    width:100px;
+    height:100px;
+    z-index:1100;
+    display: none;
+    position: fixed;
+    top:20px;
+    left: 300px;
+    background-color: navy;
+    opacity:0.6;
+}
+
+#selected_table td, #selected_table th {
+    padding: 2px 10px 2px 2px;
+
+    border-right: 1px solid #EFEFEF;
+    border-bottom: 1px solid #EFEFEF;
+}
+
+.control-button {
+    width: 200px;
+    margin:4px;
+    border: 1px solid rgb(41, 47, 88) !important;
+}

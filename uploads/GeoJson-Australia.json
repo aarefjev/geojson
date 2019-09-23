@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.91721,151.22630]
+      },
+	  "properties":{ "name": "My AUS Cool Point 01"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.91539,151.22820]
+      },
+	  "properties":{ "name": "My AUS Cool Point 02"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.91747,151.22912]
+      },
+	  "properties":{ "name": "My AUS Cool Point 03"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.91910,151.22907]
+      },
+	  "properties":{ "name": "My AUS Cool Point 04"}
+    }
+  ]
+}

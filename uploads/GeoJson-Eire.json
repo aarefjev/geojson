@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.347649863618614,-6.270203514932973]
+      },
+	  "properties":{ "name": "My Irish Point 01"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.34479328684963,-6.268443985819204]
+      },
+	  "properties":{ "name": "My Irish Point 02"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.34841841662108,-6.263658924936635]
+      },
+	  "properties":{ "name": "My Irish Point 03"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.345818089767945,-6.261362954019887]
+      },
+	  "properties":{ "name": "My Irish Point 04"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.34652260325395,-6.2663250406974385]
+      },
+	  "properties":{ "name": "My Irish Point 05"}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.344421765475694,-6.263149305223806]
+      },
+	  "properties":{ "name": "My Irish Point 06"}
+    }
+  ]
+}

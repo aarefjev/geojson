@@ -1,0 +1,6 @@
+[{"lat":53.347649863618614,"lng":-6.270203514932973,"info":"Cool Point 001","title":"My Irish Point 01"}
+,{"lat":53.34479328684963,"lng":-6.268443985819204,"info":"Cool <b>Irish</b> Point 002","title":"My Irish Point 02"}
+,{"lat":53.34841841662108,"lng":-6.263658924936635,"info":"Cool Point 003","title":"My Irish Point 03"}
+,{"lat":53.345818089767945,"lng":-6.261362954019887,"info":"Cool Point 004","title":"My Irish Point 04"}
+,{"lat":53.34652260325395,"lng":-6.2663250406974385,"info":"Cool Point 005<br>Extra Info Here","title":"My Irish Point 05"}
+  {"lat":53.344421765475694,"lng":-6.263149305223806,"info":"Cool Point 006<br>Extra Info UTF8 - ПИШЕМ по РУССКИ Here","title":"My Irish Point 06"}]

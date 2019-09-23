@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CodeIgniter Application Test Suite" tests="5" assertions="5" failures="0" errors="0" time="0.031151">
+    <testsuite name="AjaxFileUpload_test" file="/var/www/html/dev.geopal/application/tests/controllers/AjaxFileUpload_test.php" tests="1" assertions="1" failures="0" errors="0" time="0.005327">
+      <testcase name="test_testa" class="AjaxFileUpload_test" file="/var/www/html/dev.geopal/application/tests/controllers/AjaxFileUpload_test.php" line="12" assertions="1" time="0.005327"/>
+    </testsuite>
+    <testsuite name="Map_test" file="/var/www/html/dev.geopal/application/tests/controllers/Map_test.php" tests="1" assertions="1" failures="0" errors="0" time="0.008766">
+      <testcase name="test_index" class="Map_test" file="/var/www/html/dev.geopal/application/tests/controllers/Map_test.php" line="6" assertions="1" time="0.008766"/>
+    </testsuite>
+    <testsuite name="Welcome_test" file="/var/www/html/dev.geopal/application/tests/controllers/Welcome_test.php" tests="3" assertions="3" failures="0" errors="0" time="0.017058">
+      <testcase name="test_index" class="Welcome_test" file="/var/www/html/dev.geopal/application/tests/controllers/Welcome_test.php" line="13" assertions="1" time="0.006655"/>
+      <testcase name="test_method_404" class="Welcome_test" file="/var/www/html/dev.geopal/application/tests/controllers/Welcome_test.php" line="19" assertions="1" time="0.007323"/>
+      <testcase name="test_APPPATH" class="Welcome_test" file="/var/www/html/dev.geopal/application/tests/controllers/Welcome_test.php" line="25" assertions="1" time="0.003080"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
