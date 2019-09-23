@@ -8,4 +8,16 @@ More information can be found under "Descriptions of the solutions" - but many o
 	There is one quick & easy option how to run it:
 	 - Run Composer Install
 	 - Copy To a Separate Server (not sure if it has to be top level domain and not sub-folder)
+	 - No DB being Used - so no DB required
+	 - Sample GeoJson Files are located in /uploads folder:
+	 	- BadFormatJson.json
+		- FailTestEireMissingItemData.json
+		- GeoJson-Australia.json
+		- GeoJson-Eire.json
+	- Follwing Files needed to be edited in order to run properly:
+		- \application\config\config.php => $config['base_url']
+		
+## Some Fun Information ##
+
+
 
