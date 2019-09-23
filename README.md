@@ -36,6 +36,6 @@ More information can be found under "Descriptions of the solutions" - but many o
 
 
 ## Known Bugs / Features ##
- - google map doesn't seem to like when you trying to get coordinates while clicking on markers (but I might fix it tonight) - really annoying.
- - Selection is happening in one direction from top / left corner -> going -> down / right. Don't think other directions are important given the nature of the exercise.
+ - Fixed: google map doesn't seem to like when you trying to get coordinates while clicking on markers (but I might fix it tonight) - really annoying.
+ - Feature: Selection is happening in one direction from top / left corner -> going -> down / right. Don't think other directions are important given the nature of the exercise.
 
